@@ -1,0 +1,58 @@
+body {
+    /* Location of the image */
+    background-image: url(../images/fightcovid.jpg);
+    
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+    
+    /* Background image doesn’t tile */
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+    /* This is what makes the background image rescale based
+    on the container’s size */
+    background-size: cover;
+}
+p{
+    width: 40%;
+    height: 60%;
+}
+
+#home {
+    text-align: center;
+    background-color:goldenrod;
+    height: 40px;
+    width: 110px;
+
+    border-radius: 4px;
+    
+    
+  }
+
+  #state {
+    text-align: center;
+    background-color:goldenrod;
+    height: 40px;
+    width: 110px;
+    border-radius: 4px;
+    
+
+  }
+
+  #district {
+    text-align: center;
+    background-color:goldenrod;
+    height: 40px;
+    width: 110px;
+    border-radius: 4px;
+    
+
+  }
+  a:hover {
+    color: red;
+  }
+  a:link {
+    color:skyblue;
+  }
+  

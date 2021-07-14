@@ -1,0 +1,43 @@
+.headding{
+    position: sticky;
+    top: 0;
+    background-color:black
+    
+}
+
+td, th{
+    border: 2px black solid;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    color:azure
+    
+  }
+
+ul ,li{
+    list-style-type: none;
+    margin: 10px auto;
+    border: 2px black solid;
+    text-decoration: none;
+    
+}
+
+.total{
+    background-color: black;
+
+}
+.active{
+    background-color: rgb(252, 43, 6);
+
+}
+.recv{
+    background-color: rgb(113, 184, 6);
+
+}
+.conf{
+    background-color: rgb(245, 170, 142);
+}
+.deaths{
+    background-color: rgb(179, 4, 4);
+
+}
